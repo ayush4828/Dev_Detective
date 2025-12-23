@@ -41,14 +41,14 @@ https://ayush4828.github.io/DevDetective/
 
 📂 Project Structure
 
-DevDetective/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images.png
-├── temp_img.jpg
-└── README.md
+DevDetective/<br>
+│<br>
+├── index.html<br>
+├── style.css<br>
+├── script.js<br>
+├── images.png<br>
+├── temp_img.jpg<br>
+└── README.md<br>
 
 📦 API Used
 GitHub Users API:
