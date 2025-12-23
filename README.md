@@ -40,13 +40,10 @@ _Add screenshots of your project here_
 
 ```md
 ![DevDetective Preview](images.png)
-🔗 Live Demo
-(Optional)
-If deployed using GitHub Pages:
+🔗 Live Demo:
 
-arduino
-Copy code
 https://ayush4828.github.io/DevDetective/
+
 📂 Project Structure
 pgsql
 Copy code
