@@ -37,7 +37,7 @@ DevDetective is a modern GitHub Profile Finder web application that allows users
 
 🔗 Live Demo:
 
-https://ayush4828.github.io/DevDetective/
+https://ayush4828.github.io/Dev_Detective/
 
 📂 Project Structure
 
