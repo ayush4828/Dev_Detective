@@ -34,19 +34,13 @@ DevDetective is a modern GitHub Profile Finder web application that allows users
 
 ---
 
-## 📸 Preview
 
-_Add screenshots of your project here_
-
-```md
-![DevDetective Preview](images.png)
 🔗 Live Demo:
 
 https://ayush4828.github.io/DevDetective/
 
 📂 Project Structure
-pgsql
-Copy code
+
 DevDetective/
 │
 ├── index.html
@@ -55,27 +49,27 @@ DevDetective/
 ├── images.png
 ├── temp_img.jpg
 └── README.md
-📦 API Used
-GitHub Users API
 
-arduino
-Copy code
+📦 API Used
+GitHub Users API:
 https://api.github.com/users/{username}
+
+
 🙌 Author
 Ayush Patel
 Aspiring Frontend / Full-Stack Developer
 
+
 GitHub: https://github.com/ayush4828
+
 
 ⭐ Support
 If you like this project, don’t forget to ⭐ star the repository!
 
-yaml
-Copy code
 
 ---
 
-# ✅ 3️⃣ Push README to GitHub
+
 
 ```bash
 git add README.md
